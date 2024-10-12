@@ -14,7 +14,7 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/devop-yash-rana/",
   twitter: "https://twitter.com/YashRana0101",
   stackOverflow: "https://stackoverflow.com/users/27177485/yash-rana",
-  leetcode: "https://leetcode.com/said3812/",
+  leetcode: "https://leetcode.com/u/yash-rana/",
   devUsername: "yash_rana_19ea902c6a163b3",
   resume:
     "https://drive.google.com/file/d/1ybbZ5Q-k5YAb5tuW166tmuf4mw_hALm3/view?usp=sharing",
